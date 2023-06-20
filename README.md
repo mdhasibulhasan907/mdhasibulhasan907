@@ -1,26 +1,15 @@
-<!--
-### Hi there 👋
-
- 
-**mdhasibulhasan907/mdhasibulhasan907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
- <h1 align="center">Hi 👋, I'm Md. Hasibul Hasan</h1>
+<h1 align="center">Hi 👋, I'm Md. Hasibul Hasan</h1>
 <h3 align="center">A passionate Software developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdhasibulhasan907&label=Profile%20views&color=0e75b6&style=flat" alt="mdhasibulhasan907" /> </p>
 
 - 🔭 I’m currently working on MERN project [E-commerce_ProjectMERNstack](https://github.com/mdhasibulhasan907/E-commerce_ProjectMERNstack.git)
+
+- 🌱 I’m currently learning **react.js, express.js,mongoDB,plSql**
+
+- 👯 I’m looking to collaborate on [Hostel Management System](https://github.com/mdhasibulhasan907/Advance_.Net_Summer22_B.git)
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ymF0GLpUK1xpCESiBPpuT8C_GGW-k2U2/view?usp=drive_link](https://drive.google.com/file/d/1ymF0GLpUK1xpCESiBPpuT8C_GGW-k2U2/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
