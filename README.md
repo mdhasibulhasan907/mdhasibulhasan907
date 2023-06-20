@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on MERN project [E-commerce_ProjectMERNstack](https://github.com/mdhasibulhasan907/E-commerce_ProjectMERNstack.git)
 
-- 🌱 I’m currently learning **react.js, express.js,mongoDB,plSql**
+- 🌱 I’m currently learning **react.js, express.js,mongoDB,postgreSql**
 
 - 👯 I’m looking to collaborate on [Hostel Management System](https://github.com/mdhasibulhasan907/Advance_.Net_Summer22_B.git)
 
